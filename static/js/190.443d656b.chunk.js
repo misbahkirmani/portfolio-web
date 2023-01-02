@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmisbah_portfolio=self.webpackChunkmisbah_portfolio||[]).push([[190],{2190:function(e,i,s){e.exports=s.p+"static/media/uiux-design-starter-with-adobe-xd.4fe82ac40c7474feb04a.md"}}]);

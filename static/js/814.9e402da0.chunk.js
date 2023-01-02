@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmisbah_portfolio=self.webpackChunkmisbah_portfolio||[]).push([[814],{5814:function(o,s,t){o.exports=t.p+"static/media/how-to-get-10k-instagram-followers.953a57214db083df9835.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmisbah_portfolio=self.webpackChunkmisbah_portfolio||[]).push([[2],{3002:function(e,s,a){e.exports=a.p+"static/media/difference-between-gatsbyjs-and-nextjs.3e5afc22d817aa49b51d.md"}}]);

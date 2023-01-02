@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmisbah_portfolio=self.webpackChunkmisbah_portfolio||[]).push([[307],{5307:function(a,f,s){a.exports=s.p+"static/media/future-of-javascript.60b1bf635a7fbba3f7cb.md"}}]);

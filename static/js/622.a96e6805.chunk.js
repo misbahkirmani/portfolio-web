@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmisbah_portfolio=self.webpackChunkmisbah_portfolio||[]).push([[622],{7622:function(o,s,t){o.exports=t.p+"static/media/how-to-choose-javascript-framework-for-project.1f0bd6d787ff8a724b6b.md"}}]);
