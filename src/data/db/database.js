@@ -2,7 +2,7 @@ import Mock from "../mock";
 
 const database = {
   information: {
-    name: 'Misbah kirmani',
+    name: 'Misbah Kirmani',
     aboutContent: "I am a ui/ux designer and a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
     age: 29,
     phone: '0521604869',
