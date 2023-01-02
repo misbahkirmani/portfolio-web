@@ -102,10 +102,10 @@ let templateParams = {
   return (
     <Layout>
       <Helmet>
-        <title>Contact - Chester React Personal Portfolio Template</title>
+        <title>Contact</title>
         <meta
           name="description"
-          content="Chester React Personal Portfolio Template Contact Page"
+          content="Contact Page"
         />
       </Helmet>
       <Suspense fallback={<Spinner />}>

@@ -16,9 +16,9 @@ const database = {
       //twitter: 'https://twitter.com',
       //pinterest: '',
       //behance: '',
-      linkedin: 'https://www.linkedin.com/feed/',
+      linkedin: 'https://www.linkedin.com/in/misbah-kirmani-432a32254/',
       //dribbble: '',
-      github: 'https://github.com'
+      github: 'https://github.com/misbahkirmani'
     },
     brandImage: '/images/brand-image.jpg',
     aboutImage: '/images/about-image.jpg',
