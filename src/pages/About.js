@@ -59,10 +59,7 @@ function About() {
     <Layout>
       <Helmet>
         <title>About </title>
-        <meta
-          name="description"
-          content="About Page"
-        />
+        <meta name="description" content="About Page" />
       </Helmet>
       <Suspense fallback={<Spinner />}>
         <div className="mi-about-area mi-section mi-padding-top">
@@ -88,7 +85,9 @@ function About() {
                   </span>
                   <FsLightbox
                     toggler={toggler}
-                    sources={["https://res.cloudinary.com/dugd1qi5v/image/upload/v1672641019/image_ohehez.jpg"]}
+                    sources={[
+                      "https://res.cloudinary.com/dugd1qi5v/image/upload/v1672641019/image_ohehez.jpg",
+                    ]}
                   />
                 </div>
               </div>
@@ -98,9 +97,9 @@ function About() {
                     I am <span className="color-theme">{information.name}</span>
                   </h3>
                   <p>
-                    I am a ux/ui designer and a frontend web developer. I can provide clean code and
-                    pixel perfect design. I also make website more & more
-                    interactive with web animations.
+                    I am a ux/ui designer and a frontend web developer. I can
+                    provide clean code and pixel perfect design. I also make
+                    website more & more interactive with web animations.
                   </p>
                   <ul>
                     {!information.name ? null : (
@@ -144,7 +143,11 @@ function About() {
                       </li>
                     )}
                   </ul>
-                  <a href="https://res.cloudinary.com/drwqx1s2s/image/upload/v1672592843/misbahkirmani.pdf" target="_blank" className="mi-button">
+                  <a
+                    href="https://res.cloudinary.com/drwqx1s2s/image/upload/v1672592843/misbahkirmani.pdf"
+                    target="_blank"
+                    className="mi-button"
+                  >
                     Download CV
                   </a>
                 </div>

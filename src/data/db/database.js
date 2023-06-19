@@ -5,7 +5,7 @@ const database = {
     name: "Misbah Kirmani",
     aboutContent:
       "I am a ui/ux designer and a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
-    age: 29,
+    age: 31,
     phone: "0521604869",
     //nationality: 'INDIAN',
     language: "English, kashmiri, hindi",
